@@ -1,5 +1,5 @@
 ---
-layout: Blog
+layout: categories
 icon: 
 order: 2
 ---
