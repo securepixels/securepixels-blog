@@ -1,7 +1,6 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
-categories: about-me
 order: 4
 ---
 
