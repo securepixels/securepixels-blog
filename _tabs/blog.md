@@ -1,5 +1,5 @@
 ---
 layout: Blog
-icon: fas fa-stream
+icon: 
 order: 2
 ---
