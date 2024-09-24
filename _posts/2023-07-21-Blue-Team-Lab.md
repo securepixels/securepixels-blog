@@ -6,6 +6,6 @@ categories: [Blue-Team-Lab, Network Defense]
 tags: [home-lab, splunk]
 ---
 
-# <span style="color:blue">Introduction</span>
+# <span style="color:lightblue">Introduction</span>
 
 Today, I will be discussing my homelab that I completed using Splunk
